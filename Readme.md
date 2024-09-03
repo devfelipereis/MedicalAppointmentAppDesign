@@ -2,13 +2,9 @@
 
 UI built using Jetpack Compose.
 
-Source design on [Figma](https://www.figma.com/design/rmKh06cy55KREBYRMzrMEj/Healtec---Medical-Appointment-Mobile-App-Design-(Community)?node-id=0-1&node-type=CANVAS&t=2o5oMIdWPN9Wm1Fk-0). Some images were changed for better quality. Focused on design with minimal behavior.
-
-
+Source design available on [Figma](https://www.figma.com/design/rmKh06cy55KREBYRMzrMEj/Healtec---Medical-Appointment-Mobile-App-Design-(Community)?node-id=0-1&node-type=CANVAS&t=2o5oMIdWPN9Wm1Fk-0). Some images were changed for better quality. Focused on design with minimal behavior.
 
 <img src="screenshots/onboarding.png" /> <img src="screenshots/my-appointment.png" /> <img src="screenshots/voice-call.png" /> 
-
-## 
 
 ## Assets
 
